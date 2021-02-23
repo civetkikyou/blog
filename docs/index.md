@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+## 李狸的冒险
+德国 建筑 艺术 自然 运动
+展示另一种普通的生活
 
-You can use the [editor on GitHub](https://github.com/civetkikyou/personal-website/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 关于李狸
 
-```markdown
-Syntax highlighted code block
+一个长居于德国的中文母语者。这里是一个记录观察的地方。用中文描写德国，用中文观察德国，用中文记录德国。
 
-# Header 1
-## Header 2
-### Header 3
+```
+
+
+# in Ordnung 日常的整理
+## Technik oder Kunst 建筑学的实践
+### Urlaub 私人的时间
 
 - Bulleted
 - List
